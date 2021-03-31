@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TriangleGen
+comment1.params=n
+comment1.target=void\ triangle(int)
+comment2.params=n
+comment2.target=void\ reverseTriangle(int)
+comment3.params=n
+comment3.target=void\ printStars(int)
+numComments=4
